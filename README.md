@@ -1,0 +1,1 @@
+Built the app for those who have heart related issues. Monitors the heart rate and processed it continuously, in case  any vulnerability found provides real-time alert to the nearest hospital and relative, make the use of  nearest point API by Google and Firebase Cloud services.  
